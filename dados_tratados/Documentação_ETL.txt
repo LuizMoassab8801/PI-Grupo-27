@@ -1,0 +1,6 @@
+O processo de "Extract" e "Transform" consistiu de 4 partes:
+
+1º - Preservar apenas as linhas referentes a países (Excluidas as linhas que fossem continentes ou grupos econômicos);
+2º - Manter apenas países que ainda existem (Base de dados começa em 1965, então vário países já não mais existem);
+3º - Limpar, formatar e agregar todas as bases em só uma para melhor formatação, legibilidade e possibilidade de manipulação com SQL;
+4º - Dados prontos para manipulação e Load.
