@@ -5,7 +5,7 @@ GitRep para o projeto PTI do segundo semestre do curso de "Análise e Desenvolvi
 A PTI consistirá de duas entregas com duas datas. Cada uma com suas competências e requerimentos.
 
 As entregas são as seguintes:
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1ª Entrega:
 
 Renewable Energy Dataset Analysis – Global Insights
@@ -90,3 +90,10 @@ O dataset inclui informações sobre:
 
 Grandes países utilizam dados energéticos como base estratégica para tomada de decisão, planejamento de longo prazo e redução de impactos ambientais.
 A transição energética global está em andamento, com abordagens diferentes dependendo do contexto econômico e geográfico de cada país.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+****ETL****
+
+ - O processo de ETL feito na base de dados foi relativamente simples, retirando apenas as informações generalistas referentes a continentes e grupos econômicos, excluindo países mortos, e formatando para melhor legibilidade, o aquivo ".csv".
+
+- Foram agregadas as bases de dados para melhor formatação no uso de um SQL.
