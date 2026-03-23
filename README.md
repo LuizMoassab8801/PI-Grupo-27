@@ -102,26 +102,26 @@ A transição energética global está em andamento, com abordagens diferentes d
 
 **Etapas do Projeto:**
 
-Coleta e compreensão da base de dados
-Limpeza e tratamento dos dados
-Criação de métricas e indicadores
-Desenvolvimento do dashboard
-Análise dos resultados
-Documentação e entrega final
+- Coleta e compreensão da base de dados
+- Limpeza e tratamento dos dados
+- Criação de métricas e indicadores
+- Desenvolvimento do dashboard
+- Análise dos resultados
+- Documentação e entrega final
 
 **Divisão de Responsabilidades:**
 
-Luiz Guilherme: Criação e Organização do Repositório e Planejamento do Processo de ETL
-Yanca: Definição da Base de Dados e Contextualização
-Herica: Organização do Read Me e Planejamento de Tarefas
-Tiago: Planejamento do Dashboard
-Lucas: Planejamento do Dashboard
+- Luiz Guilherme: Criação e Organização do Repositório e Planejamento do Processo de ETL
+- Yanca: Definição da Base de Dados e Contextualização
+- Herica: Organização do Read Me e Planejamento de Tarefas
+- Tiago: Planejamento do Dashboard
+- Lucas: Planejamento do Dashboard
 
 **Cronograma do Projeto:**
-Semana 1: Organização do grupo e criação do Repositório do GitRub
-Semana 2: Escolha do tema e definição da base de dados
-Semana 3: Planejamento do projeto com definição de tarefas
-Semana 4: Finalização do Read Me e conclusão das tarefas.
+- Semana 1: Organização do grupo e criação do Repositório do GitRub
+- Semana 2: Escolha do tema e definição da base de dados
+- Semana 3: Planejamento do projeto com definição de tarefas
+- Semana 4: Finalização do Read Me e conclusão das tarefas.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ****ETL****
