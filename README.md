@@ -17,7 +17,8 @@ O dataset inclui informações sobre:
 - Biocombustíveis  
 - Energia geotérmica
 
-Objetivo
+**Objetivo:**
+
   Demonstrar como países de grande porte utilizam dados energéticos para:
 - Reduzir emissões de CO₂  
 - Planejar políticas públicas  
