@@ -26,7 +26,7 @@ Objetivo
 
   Uso de dados por grandes países:
 
-  #Estados Unidos
+#Estados Unidos
 - Planejamento de expansão de energia solar e eólica  
 - Monitoramento da transição energética por estado  
 - Investimentos em inovação tecnológica  
@@ -80,7 +80,7 @@ Principais Insights Globais
 - Países desenvolvidos focam em inovação  
 - Países emergentes focam em expansão e acesso  
 
-Desafios
+**Desafios:**
 
 - Intermitência das fontes (solar e eólica)  
 - Armazenamento de energia  
