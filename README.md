@@ -72,7 +72,7 @@ Objetivo
 
 **Estratégia:** Crescimento sustentável  
 
-Principais Insights Globais
+**Principais Insights Globais:**
 
 - Energia solar é a fonte que mais cresce globalmente  
 - Energia eólica apresenta expansão consistente  
