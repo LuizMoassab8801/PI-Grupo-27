@@ -72,7 +72,7 @@ O dataset inclui informações sobre:
 
 **Estratégia:** Crescimento sustentável  
 
-Principais Insights Globais
+  Principais Insights Globais
 
 - Energia solar é a fonte que mais cresce globalmente  
 - Energia eólica apresenta expansão consistente  
@@ -80,7 +80,7 @@ Principais Insights Globais
 - Países desenvolvidos focam em inovação  
 - Países emergentes focam em expansão e acesso  
 
- Desafios
+  Desafios
 
 - Intermitência das fontes (solar e eólica)  
 - Armazenamento de energia  
