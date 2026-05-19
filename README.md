@@ -4,6 +4,11 @@ GitRep para o projeto PTI do segundo semestre do curso de "Análise e Desenvolvi
 
 A PTI consistirá de duas entregas com duas datas. Cada uma com suas competências e requerimentos.
 
+
+# Url do dashboard streamlit: 
+https://pi-grupo-27-ak897f8x2adzlrpvy2jevl.streamlit.app/
+
+
 As entregas são as seguintes:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1ª Entrega:
